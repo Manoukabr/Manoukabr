@@ -23,7 +23,7 @@
 
 ### 🌱 En ce moment
 
-🔎 Je recherche une **alternance** en développement full stack, data et IA.
+🔎 Je recherche une **alternance de 24 mois** en développement full stack, data et IA.
 
 ---
 
@@ -103,19 +103,6 @@ Pilotage commercial en **Power BI** (modèle en étoile, KPI en DAX, drill-down)
 
 ### 🛠️ Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
----
-
-## 📊 Stats GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manoukabr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoukabr&layout=compact&theme=tokyonight&hide_border=true" alt="Langages principaux" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manoukabr&theme=tokyonight&hide_border=true" alt="Série de contributions" />
-
-</div>
 
 ---
 
