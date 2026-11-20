@@ -23,7 +23,7 @@
 
 ### 🌱 En ce moment
 
-🔎 Je recherche une **alternance de 24 mois** en développement full stack, data et IA.
+🔎 Je recherche une **alternance** en développement full stack, data et IA.
 
 ---
 
